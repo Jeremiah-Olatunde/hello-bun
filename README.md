@@ -1,15 +1,7 @@
 # hello_bun
 
-To install dependencies:
+First exploration of [BunJS](https://bun.sh/docs/quickstart) runtime
 
-```bash
-bun install
-```
+## Description
 
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.29. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+A simple multipage, server side rendered application displaying poems utilizing in build bun TSX support and rudimentary routing.
