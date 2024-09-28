@@ -7,6 +7,18 @@ const server = Bun.serve({
 	},
 });
 
+
+
+function Home() {
+	return (
+		<>
+			<Head/>
+			<Title />
+			<Navigation />
+		</>
+	);
+}
+
 function Head() {
 	return (
 		<>
